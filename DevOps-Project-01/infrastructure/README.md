@@ -1,6 +1,6 @@
 # AWS Infrastructure for Java Application
 
-This directory contains Terraform configurations to set up the AWS infrastructure for the Java application deployment. The infrastructure follows AWS best practices and implements a secure, scalable, and highly available architecture.
+This directory contains Terraform configurations to set up the AWS infrastructure for the Java application deployment on AWS an Azure platforms. The infrastructure follows AWS best practices and implements a secure, scalable, and highly available architecture.
 
 ## Architecture Overview
 
